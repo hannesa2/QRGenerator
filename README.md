@@ -5,22 +5,8 @@ QR Generator Library and Saves the QR Code as Image
 [![](https://jitpack.io/v/hannesa2/QRGenerator.svg)](https://jitpack.io/#hannesa2/QRGenerator)
 
 ### How to Import the Library:
-Add it in your root build.gradle at the end of repositories:
 
-``` groovy
-allprojects {
-  repositories {
-    ...
-    maven { url 'https://jitpack.io' }
-  }
-}
-```
-<b>Gradle:</b>
-```groovy
-dependencies {
-  implementation 'com.github.hannesa2:QRGenerator:<latest version>'
-}
-```
+Please see instruction here https://jitpack.io/#hannesa2/QRGenerator
 
 ### Features:
 1. QR code color can be changed dynamically
