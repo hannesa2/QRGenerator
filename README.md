@@ -2,9 +2,8 @@
 QR Generator Library and Saves the QR Code as Image
 
 ### Featured In:
-[![](https://jitpack.io/v/androidmads/QRGenerator.svg)](https://jitpack.io/#androidmads/QRGenerator)
+[![](https://jitpack.io/v/hannesa2/QRGenerator.svg)](https://jitpack.io/#hannesa2/QRGenerator)
 
-[![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-QRGenerator-green.svg?style=true)](https://android-arsenal.com/details/1/3890)
 ### How to Import the Library:
 Add it in your root build.gradle at the end of repositories:
 
@@ -19,7 +18,7 @@ allprojects {
 <b>Gradle:</b>
 ```groovy
 dependencies {
-  implementation 'com.github.androidmads:QRGenerator:1.0.1'
+  implementation 'com.github.hannesa2:QRGenerator:<latest version>'
 }
 ```
 
